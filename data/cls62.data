@@ -1,0 +1,4 @@
+classes=62
+train=data/cls62-train.txt
+valid=data/cls62-val.txt
+names=data/class.names
